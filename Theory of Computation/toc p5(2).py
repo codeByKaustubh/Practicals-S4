@@ -1,3 +1,4 @@
+#Program2: Design a Program for creating machine that accepts the string always ending with aba.
 class FSM:
     def __init__(self):
         self.state = 0  # Initial state
