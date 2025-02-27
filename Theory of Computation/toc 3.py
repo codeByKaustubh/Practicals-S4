@@ -1,3 +1,4 @@
+#AIM: Write a program for generating derivation sequence / language for the given sequence of productions.
 def printArray(arr, size):
     for i in range(size):
         print(arr[i], end=" ")
