@@ -1,3 +1,4 @@
+#Program 2: Design a python program for creating a machine which count number of a’s and b’s in a given string.  
 def count_as_bs(input_string):
     a_count = input_string.count('a')
     b_count = input_string.count('b')
