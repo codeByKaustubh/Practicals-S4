@@ -1,4 +1,4 @@
-def is_divisible_by_2(number: float) -> bool:
+#Program 1: Design a program for accepting decimal number divisible by 2.def is_divisible_by_2(number: float) -> bool:
     return number % 2 == 0
 
 while True:
