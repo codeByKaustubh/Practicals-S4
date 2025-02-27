@@ -1,3 +1,4 @@
+#Aim: Design a PDA to accept WCWR where w is any string and WR is reverse of that string and C is a special symbol.
 class PDA:
     def __init__(self):
         self.stack = []
