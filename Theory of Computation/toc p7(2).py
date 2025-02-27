@@ -1,3 +1,4 @@
+#Program 2: Design a python program for creating a machine which accepts string having equal no. of a’s and b’s.
 def is_equal_ones_zeroes(string):
     count = 0
 
