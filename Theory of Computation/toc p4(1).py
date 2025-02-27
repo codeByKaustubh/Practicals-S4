@@ -1,3 +1,4 @@
+#Program1: Design a Program for creating machine that accepts three consecutive one.
 class ThreeConsecutiveOnesFSM:
     def __init__(self):
         self.state = 0  
