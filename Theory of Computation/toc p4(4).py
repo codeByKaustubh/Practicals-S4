@@ -1,3 +1,4 @@
+#Program 4: Design a Program for creating machine that accepts three consecutive zero.
 class ThreeConsecutiveZerosFSM:
     def __init__(self):
         self.state = 0  
