@@ -1,4 +1,5 @@
-#Program1: Design a Program for creating machine that accepts the string always ending with 101.class FSM:
+#Program1: Design a Program for creating machine that accepts the string always ending with 101.
+class FSM:
     def __init__(self):
         self.state = 0  # Initial state
 
