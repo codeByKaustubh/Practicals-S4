@@ -1,3 +1,4 @@
+#Aim: Write a program for generating regular expressions for regular grammar.
 import re
 line = "Horses are taller than dogs"
 searchObj = re.search(r'(.*) are (.*?) .*', line,re.M|re.I)

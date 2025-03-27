@@ -1,3 +1,4 @@
+#Program 2: Design a program for accepting decimal number divisible by 3.
 def is_divisible_by_3(number: float) -> bool:
     return number % 3 == 0
 

@@ -1,3 +1,4 @@
+#Program 4: Design a program for accepting decimal number divisible by 5.
 def is_divisible_by_5(number: float) -> bool:
     return number % 5 == 0
 

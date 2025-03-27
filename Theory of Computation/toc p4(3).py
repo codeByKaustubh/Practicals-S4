@@ -1,3 +1,4 @@
+#Program 3: Design a Program for creating machine that accepts three consecutive b’s.
 class ThreeConsecutiveBsFSM:
     def __init__(self):
         self.state = 0  

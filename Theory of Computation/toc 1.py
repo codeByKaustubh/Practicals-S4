@@ -1,3 +1,4 @@
+#Aim: Write a program for tokenization of given input
 my_text = """Let's play game, Would You Rather! It's simple, you have to pick one or the other. 
 Let's get started. Would you rather try Vanilla Ice Cream or Chocolate one? Would you rather be bird or bat?
 Would you rather explore space or the ocean? Would you rather live on Mars or on Moon?

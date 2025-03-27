@@ -1,3 +1,4 @@
+#Program3: Design a Program for creating machine that accepts the string always ending with 100.
 class FSM:
     def __init__(self):
         self.state = 0  # Initial state

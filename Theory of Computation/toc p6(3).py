@@ -1,3 +1,4 @@
+#Program 3: Design a program for accepting decimal number divisible by 4.
 def is_divisible_by_4(number: float) -> bool:
     return number % 4 == 0
 
