@@ -2,7 +2,6 @@
 def count_as_bs(input_string):
     a_count = input_string.count('a')
     b_count = input_string.count('b')
-    
     return a_count, b_count
 
 if __name__ == "__main__":
