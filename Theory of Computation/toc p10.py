@@ -1,3 +1,4 @@
+#AIM: Design a Turing machine that’s accepts the following language a^n b^n c^n where n>0.
 def turingMachine(string):
   string = list(string)
   elementToRemove = "B"
